@@ -1,0 +1,3 @@
+# Chinese-Scenic-Spot-Evaluation-Text-DataSet-with-Emotional-Symbols
+Chinese Scenic Spot Evaluation Text DataSet with Emotional Symbols
+Text data set of Chinese tourist attraction evaluation fusion emoticons. The stop words are removed from the data. There are four files. 0-emotion represents negative emoticon based Chinese scenic spot evaluation. 0-emotion represents negative Chinese scenic spot evaluation without emoticons. 1-emotion represents positive Chinese scenic spot evaluation with emoticons. 1-text stands for positive Chinese scenic spot evaluation without emoticons. The article is under review.
